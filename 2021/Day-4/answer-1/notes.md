@@ -1,3 +1,5 @@
+# Part 1:
+
 I am given:
 
 - A random set of boards, each is 5x5 in size.
